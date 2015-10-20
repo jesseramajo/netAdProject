@@ -1,3 +1,3 @@
 Options -Indexes
-ErrorDocument 403 <h1>403!!!<h1>
-ErrorDocument 404 <h1>404!!!<h1>
+ErrorDocument 403 /netAdProject/error403.html
+ErrorDocument 404 /netAdProject/error404.html
