@@ -1,0 +1,4 @@
+Options -Indexes
+DirectoryIndex netAdProject/index.html
+ErrorDocument 403 /netAdProject/error403.html
+ErrorDocument 404 /netAdProject/error404.html
